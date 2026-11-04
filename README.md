@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](Introduction_Image.jpeg)
+![](Introduction_Image.png)
 
 
 This project is a hospital performance dashboard built in excel for Secure Life General Hospital. It analyzes patients’ admission across various departments, the outstanding medical bills and how the insurance coverage has influenced the operational and financial performance. The dashboard helps management monitor these performances and make informed decisions.
