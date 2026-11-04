@@ -23,6 +23,7 @@ The Dataset ranging from 2024-2025 show a record of 1000 admissions over the yea
 - **Insurance Coverage (%):** The percentage of the total bill covered by the patient's health insurance. 
 - **Payment Status:** Indicates whether the patient's bill is Paid, Pending or Partially Paid.
 **Data Source:**[Click here](https://drive.google.com/file/d/1ducUbh6rfn2v_2ji4QEiCx1hENcvJHYS/view?usp=classroom_web&authuser=0)
+
 I checked for duplicates, fixed the dates and the insurance coverage (%) which wasn’t formatted well, then I added some new columns to carry out the analysis which are;
 
 - **Length of Stay:** This is the (discharge date – admission date), used to find the average length of stay across all admitted patients.
